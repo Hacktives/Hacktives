@@ -1,7 +1,7 @@
 site_name: Idev
-site_url: 
-repo_url: https://github.com/Hacktives/Hacktives
-repo_name: ayasyrev
+site_url: ''
+repo_url: https://github.com/Hacktives/
+repo_name: Hacktives
 
 nav:
   - Home: index.md
